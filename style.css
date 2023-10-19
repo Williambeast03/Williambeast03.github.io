@@ -1,0 +1,92 @@
+header{
+
+    background-color: #EAF0CE;
+    height: 115px;
+    width: 99%;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    font-family: 'Montserrat', sans-serif;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+}
+
+nav{
+
+    background-color: #C0C5C1;
+    height: 100px;
+    width: 99%;
+    margin-bottom: 5px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+}
+
+#container{
+
+display:flex;
+
+}
+
+aside{
+
+    background-color: #7D8491;
+    height: 460px;
+    width: 19%;
+    margin-right: 5px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+}
+
+h1{
+
+    margin-bottom: 0px;
+
+}
+
+
+main{
+
+    background-color: #574B60;
+    height: 450px;
+    width: 80%;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+footer{
+
+    background-color: #3F334D;
+    height: 60px;
+    width: 99%;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+}
+
+img{
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+iframe{
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
